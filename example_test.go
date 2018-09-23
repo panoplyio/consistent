@@ -6,8 +6,8 @@ package consistent_test
 
 import (
 	"fmt"
+	"github.com/panoplyio/go-consistent"
 	"log"
-	"stathat.com/c/consistent"
 )
 
 func ExampleNew() {
